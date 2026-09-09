@@ -1,7 +1,3 @@
-# CodeAlpha — Task 1: Hangman Game
-# Five predefined words. Six lives. Letter-by-letter guessing.
-# Key concepts: random, while loop, if-else, strings, lists.
-# Run: python hangman.py
 
 from __future__ import annotations
 
